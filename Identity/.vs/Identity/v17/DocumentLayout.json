@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|c:\\users\\user\\desktop\\hafta14\\identity\\identity\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|solutionrelative:identity\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|c:\\users\\user\\desktop\\hafta14\\identity\\identity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|solutionrelative:identity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|c:\\users\\user\\desktop\\hafta14\\identity\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|solutionrelative:identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|c:\\users\\user\\desktop\\hafta14\\identity\\identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|solutionrelative:identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|c:\\users\\user\\desktop\\hafta14\\identity\\identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|solutionrelative:identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|c:\\users\\user\\desktop\\hafta14\\identity\\identity\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3B82B80-C05B-49B6-AF63-2C3D615EF818}|Identity\\Identity.csproj|solutionrelative:identity\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Identity\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Identity\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:58:27.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "Identity\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\appsettings.json",
+              "RelativeToolTip": "Identity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T07:48:55.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\Program.cs",
+              "RelativeDocumentMoniker": "Identity\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\Program.cs",
+              "RelativeToolTip": "Identity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:49:35.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Identity\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\appsettings.Development.json",
+              "RelativeToolTip": "Identity\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T07:48:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Identity\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\AppDbContext.cs",
+              "RelativeToolTip": "Identity\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:47:31.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "Identity\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\Identity\\Identity\\User.cs",
+              "RelativeToolTip": "Identity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:46:40.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

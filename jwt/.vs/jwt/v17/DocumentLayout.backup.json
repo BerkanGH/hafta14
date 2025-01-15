@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|c:\\users\\user\\desktop\\hafta14\\jwt\\jwt\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|solutionrelative:jwt\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|c:\\users\\user\\desktop\\hafta14\\jwt\\jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|solutionrelative:jwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|c:\\users\\user\\desktop\\hafta14\\jwt\\jwt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|solutionrelative:jwt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|c:\\users\\user\\desktop\\hafta14\\jwt\\jwt\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|solutionrelative:jwt\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|c:\\users\\user\\desktop\\hafta14\\jwt\\jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|solutionrelative:jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|c:\\users\\user\\desktop\\hafta14\\jwt\\jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BD59608-61BA-418E-B81C-DD5F2830509A}|jwt\\jwt.csproj|solutionrelative:jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "jwt\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\Controllers\\TestController.cs*",
+              "RelativeToolTip": "jwt\\Controllers\\TestController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:40:22.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "jwt\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "jwt\\Controllers\\AuthController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:40:12.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\appsettings.json",
+              "RelativeDocumentMoniker": "jwt\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\appsettings.json*",
+              "RelativeToolTip": "jwt\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T08:37:51.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\Program.cs",
+              "RelativeDocumentMoniker": "jwt\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\Program.cs*",
+              "RelativeToolTip": "jwt\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:36:59.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "jwt\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\Models\\AppDbContext.cs*",
+              "RelativeToolTip": "jwt\\Models\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:35:54.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\Models\\User.cs",
+              "RelativeDocumentMoniker": "jwt\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\hafta14\\jwt\\jwt\\Models\\User.cs*",
+              "RelativeToolTip": "jwt\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:35:07.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
